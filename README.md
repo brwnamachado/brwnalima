@@ -1,62 +1,54 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Chega+Mais!+Seja+Bem-vindo.:%29;+Sou+Bruna+Lima!+Tenho+25+anos.)](https://git.io/typing-svg)
 
-<div dsplay="inline-block" align="center">
- <h4>Minhas redes sociais:</h4>
- <a href="https://www.linkedin.com/in/bruna-lima-328b2323b/" target="_blank">
-    <img width="40px" src="https://www.iconpacks.net/icons/2/free-linkedin-logo-icon-2430-thumb.png" align="top" target="_blank">
- </a> 
- <a href="bruna.lima@edu.unirio.br">
-    <img width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="email-gmail" align="top"/>
- </a>
+## Olá, eu sou a Bruna:
 
-<div align='center'>
-  <h2>
-    <a
-    target="_blank"
-    style="text-decoration: none"
-    href="https://github.com/brwnalima?tab=repositories"
-    color='white'
-    >Veja meus projetos:</a>
-  </h2>
-</div>
+Atualmente sou **IT Intern na TIM Brasil**, atuando em **Business Intelligence**, **Data Analytics** e **Process Automation**. Tenho experiência com **Power Platform**, **Power BI**, **Alteryx**, **Python**, **SQL**, **Excel** e soluções em nuvem (**Azure**). Meu foco é transformar dados em insights estratégicos para apoiar decisões de negócio e otimizar processos.
 
-<br>
+Currently, I am an **IT Intern at TIM Brazil**, working with **Business Intelligence**, **Data Analytics**, and **Process Automation**. I have experience with **Power Platform**, **Power BI**, **Alteryx**, **Python**, **SQL**, **Excel**, and cloud solutions (**Azure**). My focus is turning data into strategic insights to support business decisions and optimize processes.
 
-<div style="display: inline_flex" align = "center">
-  <a href="https://github.com/brwnalima">
-   
-   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=brwnalima&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+---
 
-
-
-   
-   
- <a href="https://git.io/streak-stats">
-   <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=brwnalima&theme=chartreuse-dark"/> 
-
-</div>
- 
-<div align='center'>
-
-## ⚒️: Ferramentas que utilizo:
+## 🚀 Skills & Ferramentas / Tools & Skills
+<div align="center">
+   <img align="center" alt="Azure" height="70" width="70" src="https://github.com/user-attachments/assets/fd9eb367-b5dd-454e-9587-3c386325556e"/>
+  <img align="center" alt="Power BI" height="40" width="40" height="2048" alt="image" src="https://github.com/user-attachments/assets/9876afc8-5f3f-4fdd-b37a-db17341275e9" />
+  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img align="center" alt="SQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  <img align="center" alt="Excel" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/732/732220.png"/>
+ <img align="center" alt="Power Automate" height="40" width="40" src="https://github.com/user-attachments/assets/d96549d3-3f5e-4009-a099-4307266a360b"/>
+  <img align="center" alt="Power Apps" height="40" width="40" src="https://github.com/user-attachments/assets/c2169b8c-7c65-4f08-9fed-662345a70697"/>
+  <img align="center" alt="Alteryx" height="65" width="65" src="https://github.com/user-attachments/assets/8fc8210a-cce3-4608-bcbb-a3f5db496570"/>
+ <img align="center" alt="SQL Server" height="40" width="40" src="https://github.com/user-attachments/assets/7a749237-7f8b-4a30-a92c-006be98e3e2b" />
 
 </div>
 
+---
 
- <div style="display: inline_block" align = "center"><br>
+## 📊 Projetos / Projects
+Confira meus projetos no GitHub:  
+[![GitHub](https://img.shields.io/badge/GitHub-Repositórios-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brwnalima?tab=repositories)
 
-  <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="NODE JS" height="40" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png"/>
-  <img align="center" alt="Bruna-Git" height="40" width="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
-  <img align="center" alt="Bruna-HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="Bruna-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img align="center" alt="Bruna-GitHub" height="40" width="40" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
-  <img align="center" alt="Bruna VsCode " height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" />
-  <img align="center" alt="Bruna React " height="40" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />
-  <img align="center" alt="Bruna Bootstrap" height="45" width="45" src="https://obscureproblemsandgotchas.com/wp-content/uploads/2018/06/bootstrap-stack-e1530246058846.png" />
-  <img align="center" alt="Bruna Vite" height="45" width="45" src="https://cdn.worldvectorlogo.com/logos/vitejs.svg" />
-            
+<div style="display: flex" align="center" >
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=brwnalima&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=brwnalima&theme=chartreuse-dark"/> 
 </div>
 
+---
+
+## 🌐 Idiomas / Languages
+- Português: Nativo 🇧🇷  
+- Inglês: Fluente 🇺🇸  
+- Espanhol: Avançado 🇪🇸
+
+---
+
+<div align="center">
+  <h4>📫 Conecte-se comigo / Connect with me:</h4>
+  <a href="https://www.linkedin.com/in/bruna-lima-328b2323b/" target="_blank" style="text-decoration: none;">
+    <img width="40px" src="https://www.iconpacks.net/icons/2/free-linkedin-logo-icon-2430-thumb.png" />
+  </a> 
+  <a href="mailto:brunmsl@id.uff.br" style="text-decoration: none;">
+    <img width="40px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="email" />
+  </a>
+</div>
 
