@@ -26,11 +26,11 @@ Currently, I am an **IT Intern at TIM Brazil**, working with **Business Intellig
 
 ## 📊 Projetos / Projects
 Confira meus projetos no GitHub:  
-[![GitHub](https://img.shields.io/badge/GitHub-Repositórios-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brwnalima?tab=repositories)
+[![GitHub](https://img.shields.io/badge/GitHub-Repositórios-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brwnamachado?tab=repositories)
 
 <div style="display: flex" align="center" >
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=brwnalima&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=brwnalima&theme=chartreuse-dark"/> 
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=brwnamachado&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=brwnamachado&theme=chartreuse-dark"/> 
 </div>
 
 ---
